@@ -13,6 +13,8 @@
 4、一套极简的可扩展爬虫代码，修改本代码，你就能抓取任何互联网网页！
 
 ----
-现在百度词条里边的链接已经更改，请查看 `spider_main.py` 里的地址 和 `html_parser.py` 里的正则
+现在百度词条里边的链接已经更改，请查看 `spider_main.py` 里的地址 和 `html_parser.py` 里的正则  
+
+程序运行：`python spider_main.py`
 
 **2017.06.01**
